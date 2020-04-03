@@ -3,13 +3,13 @@ const crypto = require('crypto');
 const connection = require('../database/connection');
 
 module.exports = {
-    /** Rota 1 */
+    /** Rota 1 GET */
     async index (request, response) {
         const ongs = await connection('ongs').select('*'); //await - aguardar
     
         return response.json(ongs);
     },
-    /** Rota 2 */
+    /** Rota 2 POST */
     async create(request, response){
     //pegar respectivamente cada dado contido no JSON enviado pelo corpo da requisição
     const { name, email, whatsapp, city, uf } = request.body; 
