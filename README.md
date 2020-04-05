@@ -1,5 +1,6 @@
 <h1 align="center">
 <img src="https://github.com/mpgxc/BeTheHero/blob/master/.github/logo.svg" />
+ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://github.com/mpgxc/BeTheHero/blob/master/.github/rocket.svg" />
 </h1>
 
