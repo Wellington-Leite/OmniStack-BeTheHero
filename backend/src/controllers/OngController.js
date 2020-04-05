@@ -1,4 +1,4 @@
-const crypto = require('crypto');
+const generateUniqueId = require('../utils/generateUniqueId');
 //importando a conexão com BD
 const connection = require('../database/connection');
 
@@ -14,7 +14,7 @@ module.exports = {
     //pegar respectivamente cada dado contido no JSON enviado pelo corpo da requisição
     const { name, email, whatsapp, city, uf } = request.body; 
     //Criando o id da ONG usando o pacote crypto (contem um metodo para gerar carateres aleatorios)
-    const id = crypto.randomBytes(4).toString('HEX');//esta contido na doc. do NODE
+    const id = generateUniqueId();
     //inserindo os dados dentro do BD
     await connection('ongs').insert({
         id,
