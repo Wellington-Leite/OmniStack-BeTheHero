@@ -1,9 +1,7 @@
-# OmniStack-BeTheHero
-<h4>Semana OmniStack: Back-end e Front-end. 
-
-Projeto desenvolvido durante a 11ª Semana OmniStack</h4>
-
-<h3>Esse projeto foi desenvolvido com as seguintes tecnologias:</h3>
+# Rocketseat OmniStack - BeTheHero
+ ## Semana OmniStack: Back-end e Front-end.  
+ ## Projeto desenvolvido durante a 11ª Semana OmniStack
+  ### Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/): Back-end.
 - [Express](https://expressjs.com/pt-br/): Framework para aplicativo da web do Node.js.
