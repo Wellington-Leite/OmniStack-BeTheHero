@@ -1,4 +1,8 @@
-# Rocketseat OmniStack - BeTheHero 
+<h1 align="center">
+<img src="https://github.com/mpgxc/BeTheHero/blob/master/.github/logo.svg" />
+<img src="https://github.com/mpgxc/BeTheHero/blob/master/.github/rocket.svg" />
+</h1>
+
  ## Projeto Back-end e Front-end desenvolvido durante a 11ª Semana OmniStack
   ### Tecnologias utilizadas:
 
