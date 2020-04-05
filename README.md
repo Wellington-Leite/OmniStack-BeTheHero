@@ -20,12 +20,12 @@
 - [Jest, Supertest](https://jestjs.io/docs/en/api): Testes de integração.
 
 
-<h3 align="center"> Front-end Web </h3>
+<h3 align="center"> 🌐 Front-end Web </h3>
 <h3 align="center">
 <img src="https://github.com/Wellington-Leite/OmniStack-BeTheHero/blob/master/Front%20end%20Web.gif" width="90%" height="90%" />
  </h3>
  <br>
-<h3 align="center"> Front-end Mobile </h3>
+<h3 align="center"> 📱 Front-end Mobile </h3>
 <h3 align="center">
 <img src="https://github.com/Wellington-Leite/OmniStack-BeTheHero/blob/master/Front%20end%20Mobile.gif" width="30%" height="30%" />
  </h3>
