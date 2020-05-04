@@ -32,21 +32,19 @@
 
 ### Para clonar e executar a aplicação, você precisará do Git, NodeJS e o  gerenciador  de pacotes npm.
 
-### Comandos:
-
-### Clonar este repositório
+#### Clonar este repositório
 `$ git clone https://github.com/Wellington-Leite/OmniStack-BeTheHero.git`
 
-### Go into the repository
+#### Go into the repository
 `$ cd OmniStack-BeTheHero/backend`
 
-### Instalando dependências
+#### Instalando dependências
 `$ npm install`
 
-### Executando as migrates
+#### Executando as migrates
 `$ npm knex migrate:latest`
 
-### Rodando a Aplicação
+#### Rodando a Aplicação
 `$ cd backend`</br>
 `$ npm start`
 
