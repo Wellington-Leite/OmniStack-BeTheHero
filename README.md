@@ -35,23 +35,23 @@
 ### Comandos:
 
 ### Clonar este repositório
-$ git clone https://github.com/Wellington-Leite/OmniStack-BeTheHero.git
+`$ git clone https://github.com/Wellington-Leite/OmniStack-BeTheHero.git`
 
 ### Go into the repository
-$ cd OmniStack-BeTheHero/backend
+`$ cd OmniStack-BeTheHero/backend`
 
 ### Instalando dependências
-$ npm install
+`$ npm install`
 
 ### Executando as migrates
-$ npm knex migrate:latest
+`$ npm knex migrate:latest`
 
 ### Rodando a Aplicação
-$ cd backend
-$ npm start
+`$ cd backend`</br>
+`$ npm start`
 
-$ cd frontend
-$ npm start
+`$ cd frontend`</br>
+`$ npm start`
 
-$ cd mobile
-$ npm start
+`$ cd mobile`</br>
+`$ npm start`
