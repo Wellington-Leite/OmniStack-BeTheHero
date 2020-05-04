@@ -29,3 +29,29 @@
 <h3 align="center">
 <img src="https://github.com/Wellington-Leite/OmniStack-BeTheHero/blob/master/Front%20end%20Mobile.gif" width="30%" height="30%" />
  </h3>
+
+### Para clonar e executar a aplicação, você precisará do Git, NodeJS e o  gerenciador  de pacotes npm.
+
+### Comandos:
+
+### Clonar este repositório
+$ git clone https://github.com/Wellington-Leite/OmniStack-BeTheHero.git
+
+### Go into the repository
+$ cd OmniStack-BeTheHero/backend
+
+### Instalando dependências
+$ npm install
+
+### Executando as migrates
+$ npm knex migrate:latest
+
+### Rodando a Aplicação
+$ cd backend
+$ npm start
+
+$ cd frontend
+$ npm start
+
+$ cd mobile
+$ npm start
